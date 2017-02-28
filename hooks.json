@@ -1,0 +1,6 @@
+[
+    {
+        "type": "after_prepare",
+        "src": "scripts/f7-platform-condition.js"
+    }
+]

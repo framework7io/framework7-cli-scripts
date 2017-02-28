@@ -1,2 +1,3 @@
-# framework7-cli-scripts
-Framework7 CLI cordova hooks and scripts
+# Framework7 CLI Scripts
+
+Framework7 CLI scripts and cordova hooks
